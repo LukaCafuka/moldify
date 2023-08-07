@@ -13,11 +13,11 @@
   
 There is a **'requrements.txt'** file, so you can just run:
 
-> ` pip install -r requirements.txt `
+ ` pip install -r requirements.txt `
 
 Once installed, open a terminal and run the script:
 
-> ` python /path/to/script/moldify.py `
+ ` python /path/to/script/moldify.py `
 
 There is also a **'moldify-advanced.py'** file which has more user prompts
 
