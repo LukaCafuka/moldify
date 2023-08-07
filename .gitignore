@@ -1,4 +1,6 @@
 /test
 /__pycachce__
 /venv
+/env
 /examples/@eaDir
+/release
